@@ -18,12 +18,18 @@ write Python and know basic pandas. New here? Start at the
 
 ## Get started (2 minutes)
 
-1. **[Download PyQuest2.exe](../../releases/latest/download/PyQuest2.exe)**
-2. Double-click it. If Windows shows *"Windows protected your PC"*, click
-   **More info → Run anyway** (the warning appears because the file isn't from
-   a big-name publisher — not because anything is wrong).
-3. A small console window opens, then your browser opens the quest map.
+1. **[Download PyQuest2.zip](../../releases/latest/download/PyQuest2.zip)**
+2. Right-click the zip → **Extract All…** and extract it anywhere you like
+   (Desktop or Documents is fine).
+3. Double-click the extracted `PyQuest2.exe`. If Windows still shows
+   *"Windows protected your PC"*, click **More info → Run anyway** (the
+   warning appears because the file isn't from a big-name publisher — not
+   because anything is wrong).
+4. A small console window opens, then your browser opens the quest map.
    Keep the console window open while you learn; close it when you're done.
+
+Prefer the bare exe? It's on the [releases page](../../releases/latest)
+too — the zip just gets past SmartScreen download blocks more smoothly.
 
 That's it. No installs, no setup — you need a browser and an internet
 connection. Your progress saves automatically and picks up where you left
@@ -32,8 +38,9 @@ progress.
 
 ## Updating to a new version
 
-Download the newest `PyQuest2.exe` from the
-[releases page](../../releases/latest) and replace your old one.
+Download the newest `PyQuest2.zip` from the
+[releases page](../../releases/latest), extract it, and replace your old
+`PyQuest2.exe` with the new one.
 **Your progress is kept automatically** — it lives in your browser, not in
 the app file.
 
