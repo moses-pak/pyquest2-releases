@@ -41,11 +41,16 @@ progress.
 Download the newest `PyQuest2.zip` from the
 [releases page](../../releases/latest), extract it, and replace your old
 `PyQuest2.exe` with the new one.
-**Your progress is kept automatically** — it lives in your browser, not in
-the app file.
+**Your progress is kept automatically** — it's saved on your computer, not
+inside the app file.
 
 Tip: the **Export progress** button on the quest map saves a backup file.
-**Import progress** restores it — even on a different browser or computer.
+**Import progress** restores it — even on a different computer.
+
+> **On a work laptop?** As of v1.0.2, progress is saved to a file on your
+> computer, so it sticks even if your browser is set to clear its data when
+> it closes. (If an earlier version kept forgetting your progress, this
+> update fixes it.)
 
 ## One rule worth repeating
 
